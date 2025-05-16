@@ -86,5 +86,7 @@ This project is open source and free to use under the MIT License.
 
 Developed by Mahmoud Adel
 GitHub: [https://github.com/M2hmoud2del](https://github.com/M2hmoud2del)
-LinkedIn: [https://www.linkedin.com/in/mahmoud-adel-975026127/](https://www.linkedin.com/in/mahmoud-adel-975026127/)
-Website: [https://mahmoudadel.social-networking.me](https://mahmoudadel.social-networking.me/)
+
+LinkedIn: [https://www.linkedin.com/in/mahmoud-adel-975026127/](https://www.linkedin.com/in/mahmoud-adel-975026127)
+
+Website: [https://mahmoudadel.social-networking.me](https://mahmoudadel.social-networking.me)
