@@ -1,12 +1,3 @@
-تمام يا محمود، بما إنك ناوي **تضيف ملف `.env` في الـ commit**، يبقى لازم أعدّل التعليق في قسم "Project Structure" علشان يبقى واضح ومطابق.
-
-وأنبهك إن دي **مش ممارسة آمنة** لو هترفع الريبو على GitHub، خصوصًا لو فيه بيانات حقيقية (زي بريدك أو كلمة السر)، بس لو لغرض تعليمي ومفيش بيانات حساسة، مفيش مشكلة.
-
-إليك النسخة المعدّلة من `README.md`:
-
----
-
-````markdown
 # Flask Email Sender (CLI Tool)
 
 A simple command-line Python tool to send emails using Flask-Mail.
