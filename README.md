@@ -15,7 +15,7 @@ This project demonstrates how to configure and use Flask-Mail to send emails via
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flask_email_sender.git
+git clone https://github.com/M2hmoud2del/flask_email_sender.git
 cd flask_email_sender
 ````
 
